@@ -1,5 +1,1 @@
-- Account: kubernetes
-  MasterIP: ""
-  Name: kube
-  Provider: kubernetes
-  Src: kube.yaml
+[]
