@@ -1,1 +1,5 @@
-[]
+- Account: testcluster-158807
+  AutoDeploy: true
+  Name: test1
+  Provider: google
+  Src: test1.yaml
